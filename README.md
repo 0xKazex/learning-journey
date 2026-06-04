@@ -3,7 +3,7 @@
 Self-taught path toward **Security Research Engineer**.
 
 I'm 15, based in France, starting from zero.
-This repo tracks everything: progress, notes, struggles, and wins.
+This repo tracks everything: progress, notes, struggles, motivation and wins.
 
 ---
 
