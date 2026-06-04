@@ -64,7 +64,7 @@ More will be added as I progress through Phase 0.
 
 ## 🏁 Phase 0 Milestone
 
-I will know I'm ready for Phase 1 when I can:
+To do the Phase 1 I need to know all of this:
 
 - Explain ELF format completely
 - Explain stack frame and syscall ABI
