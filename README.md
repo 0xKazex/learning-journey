@@ -13,3 +13,22 @@ This repo tracks everything: progress, notes, struggles, and wins.
 > Currently learning: **edX Dartmouth — C Programming with Linux**
 
 ## 📁 Structure
+phase-0-foundations/ — Foundational courses (C, Linux, systems, math)
+weekly-logs/ — Honest weekly progress reports
+
+
+## 🗺️ Full Roadmap
+
+See [ROADMAP.md](ROADMAP.md) for the complete multi-year plan.
+
+## 📊 Progress Legend
+
+| Symbol | Meaning |
+|--------|---------|
+| ⬜ | Not started |
+| 🟡 | In progress |
+| ✅ | Completed |
+
+---
+
+*"Consistency beats intensity."*
