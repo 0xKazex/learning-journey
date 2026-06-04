@@ -3,7 +3,8 @@
 **Platform:** edX
 **Provider:** Dartmouth College + IMT
 **Type:** Professional Certificate (7 courses)
-**Status:** Not started
+
+> 📊 **Live progress tracking:** [Learning Journey Project](https://github.com/users/0xKazex/projects/1)
 
 ---
 
@@ -16,15 +17,15 @@ foundation everything else builds on.
 
 ## Courses
 
-| # | Course | Status | Started | Finished |
-|---|--------|--------|---------|----------|
-| 1 | [C Programming: Getting Started](https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-getting-started) | ⬜ | — | — |
-| 2 | [C Programming: Language Foundations](https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-language-foundations) | ⬜ | — | — |
-| 3 | [C Programming: Modular Programming and Memory Management](https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-modular-programming-and-memory-management) | ⬜ | — | — |
-| 4 | [C Programming: Pointers and Memory Management](https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-pointers-and-memory-management) | ⬜ | — | — |
-| 5 | [C Programming: Advanced Data Types](https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-advanced-data-types) | ⬜ | — | — |
-| 6 | [Linux Basics: The Command Line Interface](https://www.edx.org/learn/linux/dartmouth-college-linux-basics-the-command-line-interface) | ⬜ | — | — |
-| 7 | [C Programming: Using Linux Tools and Libraries](https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-using-linux-tools-and-libraries) | ⬜ | — | — |
+| # | Course |
+|---|--------|
+| 1 | [C Programming: Getting Started](https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-getting-started) |
+| 2 | [C Programming: Language Foundations](https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-language-foundations) |
+| 3 | [C Programming: Modular Programming and Memory Management](https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-modular-programming-and-memory-management) |
+| 4 | [C Programming: Pointers and Memory Management](https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-pointers-and-memory-management) |
+| 5 | [C Programming: Advanced Data Types](https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-advanced-data-types) |
+| 6 | [Linux Basics: The Command Line Interface](https://www.edx.org/learn/linux/dartmouth-college-linux-basics-the-command-line-interface) |
+| 7 | [C Programming: Using Linux Tools and Libraries](https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-using-linux-tools-and-libraries) |
 
 ---
 
