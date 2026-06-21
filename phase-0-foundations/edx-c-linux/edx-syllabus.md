@@ -18,7 +18,7 @@ foundation everything else builds on.
 ## Courses
 
 | # | Course |
-|---|--------|
+| --- | -------- |
 | 1 | [C Programming: Getting Started](https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-getting-started) |
 | 2 | [C Programming: Language Foundations](https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-language-foundations) |
 | 3 | [C Programming: Modular Programming and Memory Management](https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-modular-programming-and-memory-management) |
@@ -28,16 +28,10 @@ foundation everything else builds on.
 | 7 | [C Programming: Using Linux Tools and Libraries](https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-using-linux-tools-and-libraries) |
 
 ---
-
+  
 ## Rules
 
 - Do every exercise, not just the graded ones
 - Write notes in my own words
 - If I don't understand something, write down why and revisit
 - Understanding > completion speed
-
----
-
-## Notes
-
-All notes are in `notes/`. One file per course or major topic.
