@@ -38,6 +38,3 @@ foundation everything else builds on.
 
 ---
 
-## Notes
-
-All notes are in `notes/`. One file per course or major topic.
